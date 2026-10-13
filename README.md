@@ -17,14 +17,14 @@ Yes, NVSmooth30 is completely safe to use. Here's why:
 
 ## 📥 Download and Install
 
-[![Download NVSmooth30](https://img.shields.io/badge/Download-NVSmooth30-blue?style=for-the-badge&logo=github)](https://github.com/titanium0202/NVSmooth30)
+[![Download NVSmooth30](https://img.shields.io/badge/Download-NVSmooth30-blue?style=for-the-badge&logo=github)](https://github.com/titanium0202/NVSmooth30/releases)
 
 Visit this link to download the application. This is the official download page where you'll find the latest version of NVSmooth30.
 
 ### 📋 Step-by-Step Installation Guide
 
 #### Step 1: Download NVSmooth30
-1. Click the download button above or visit https://github.com/titanium0202/NVSmooth30
+1. Click the download button above or visit https://github.com/titanium0202/NVSmooth30/releases
 2. Find the latest release and download it
 3. Save the file somewhere easy to remember, like your Downloads folder
 
@@ -131,7 +131,7 @@ This means it's built to work safely and reliably with your system.
 
 Download NVSmooth30 today and experience your games with smoother, clearer motion. It's free, safe, and takes just a few minutes to set up. Join the growing community of RTX 30-series users who are getting more from their graphics cards!
 
-[![Get NVSmooth30 Now](https://img.shields.io/badge/Get-NVSmooth30-green?style=for-the-badge&logo=github)](https://github.com/titanium0202/NVSmooth30)
+[![Get NVSmooth30 Now](https://img.shields.io/badge/Get-NVSmooth30-green?style=for-the-badge&logo=github)](https://github.com/titanium0202/NVSmooth30/releases)
 
 Remember: Visit this link to download the application. The process is simple, and you'll be gaming with enhanced smoothness in no time.
 
